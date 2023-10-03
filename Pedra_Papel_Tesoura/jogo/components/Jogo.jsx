@@ -92,7 +92,7 @@ export default function Jogo() {
     
   return(
     <div className='container'>
-    <h1 className='title'>Pedra, Papel e Tesoura</h1>
+    <h1 className='title'>Pedra, Papel e Tesoura, Largato e spoke</h1>
     <input type="text" className='input' placeholder='Escreva algo:' value = {resp} onChange={(e) => setResp(e.target.value)}  />
       
       <div>

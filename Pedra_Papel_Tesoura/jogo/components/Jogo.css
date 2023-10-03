@@ -23,7 +23,7 @@
 .input{
     height:30px;
     width: 70%;
-    color:'black';
+    color:'white';
     align-items: center;
     justify-content: center;
     text-align:center;
@@ -60,7 +60,7 @@
 .pontoTitle{
     font-size:18px;
     font-weight:500;
-    color: #1E90FF;
+    color: #Fodec3;
     margin-left: 10px;
 }
 

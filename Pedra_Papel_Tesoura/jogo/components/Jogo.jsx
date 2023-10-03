@@ -109,7 +109,7 @@ export default function Jogo() {
       </div>
 
       <div>
-        <button className='button' onClick={Reset}>Resetar</button>
+        <button className='button' onClick={Reset}>Restaurar</button>
       </div>
 
       <div className='pontos'>

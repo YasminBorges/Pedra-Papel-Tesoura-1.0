@@ -113,7 +113,7 @@ export default function Jogo() {
       </div>
 
       <div className='pontos'>
-       <span className='pontoTitle'>Escolha:</span>
+       <span className='pontoTitle'>Sua escolha:</span>
        <span className='pontuacao'>{guardaResp}</span>
        <span className='pontoTitle'>Computador:</span>
        <span className='pontuacao'>{guardaComp}{verifica}</span>
